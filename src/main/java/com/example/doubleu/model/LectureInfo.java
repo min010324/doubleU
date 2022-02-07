@@ -1,2 +1,4 @@
-package com.example.doubleu.model;public class LectureInfo {
+package com.example.doubleu.model;
+
+public class LectureInfo {
 }

@@ -1,2 +1,4 @@
-package com.example.doubleu.model;public class PathInfo {
+package com.example.doubleu.model;
+
+public class PathInfo {
 }

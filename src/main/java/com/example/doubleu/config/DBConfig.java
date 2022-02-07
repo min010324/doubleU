@@ -9,7 +9,7 @@ import javax.sql.DataSource;
 @Configuration
 public class DBConfig {
     private static final String  DRIVER_CLASS_NAME = "com.mysql.cj.jdbc.Driver";
-    private static final String URL = "jdbc:mysql://localhost:3306/doubleu_db?serverTimezone=UTC";
+    private static final String URL = "jdbc:mysqkl://localhost:3306/doubleu_db?serverTimezone=UTC";
     private static final String USER_NAME = "doubleuUser";
     private static final String PASSWORD = "doubleu1234";
 
